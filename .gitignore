@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-.json
+# dataset
+mini_sparkify_event_data.json
